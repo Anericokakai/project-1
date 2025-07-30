@@ -120,3 +120,18 @@
     @apply bg-background text-foreground;
   }
 }
+
+
+
+
+/*  container image */
+
+.container1 {
+  background-image: url("./assets/image1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.debug{
+  border: 1px solid red;
+}
